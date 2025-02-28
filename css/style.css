@@ -291,6 +291,18 @@
     .navbar .navbar-brand h1{
         font-size: x-large;
     }
+
+    .nav-logo{
+        display: none;
+    }
+
+    .nav-text{
+        display: block;
+    }
+
+    .hide{
+        display: none;
+    }
 }
 
 @media (min-width: 991.98px) {
